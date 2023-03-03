@@ -1,4 +1,4 @@
 # Projeto-Integrador
 Ecommerce de Artigos Esportivos 
 
-bla bla bla
+Confuguração da fonte, Bootstrap e jquery.
